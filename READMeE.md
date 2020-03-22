@@ -1,2 +1,2 @@
 #samba
-<img src="ssr.jpg" widht="300px" >
+<img src="ssr.jpg" widht="30px" >
